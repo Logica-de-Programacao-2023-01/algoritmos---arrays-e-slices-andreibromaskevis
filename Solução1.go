@@ -4,8 +4,6 @@ import "fmt"
 
 func main() {
 
-	//criando as variaveis
-
 	var numeros = [3]int{5, 10, 20}
 	fmt.Println("Os valores no array são", numeros)
 
