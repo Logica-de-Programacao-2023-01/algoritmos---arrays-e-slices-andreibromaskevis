@@ -15,3 +15,4 @@ func main() {
 	fmt.Printf("A soma dos valores no array é %d", soma)
 
 }
+ 
